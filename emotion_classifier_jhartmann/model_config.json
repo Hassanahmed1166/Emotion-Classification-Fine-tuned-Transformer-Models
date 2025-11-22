@@ -1,0 +1,15 @@
+{
+  "emotion_labels": {
+    "0": "Joy",
+    "1": "Sadness",
+    "2": "Neutral",
+    "3": "Anger"
+  },
+  "base_model": "j-hartmann/emotion-english-distilroberta-base",
+  "fine_tuned_on": "4-emotion dataset",
+  "performance": {
+    "accuracy": 0.7821499857428001,
+    "f1_macro": 0.7795966542053923,
+    "f1_weighted": 0.7823437139762
+  }
+}
